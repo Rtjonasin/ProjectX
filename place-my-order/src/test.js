@@ -1,16 +1,16 @@
 import F from 'funcunit';
 import QUnit from 'steal-qunit';
 
-import 'prjoect-x/models/test';
+import 'place-my-order/models/test';
 
 F.attach(QUnit);
 
-QUnit.module('prjoect-x functional smoke test', {
+QUnit.module('place-my-order functional smoke test', {
   beforeEach() {
     F.open('./development.html');
   }
 });
 
-QUnit.test('prjoect-x main page shows up', function() {
-  F('title').text('prjoect-x', 'Title is set');
+QUnit.test('place-my-order main page shows up', function() {
+  F('title').text('place-my-order', 'Title is set');
 });

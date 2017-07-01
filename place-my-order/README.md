@@ -1,6 +1,6 @@
-# prjoect-x
+# place-my-order
 
-Welcome to the prjoect-x DoneJS application!
+Welcome to the place-my-order DoneJS application!
 
 ## Getting started
 

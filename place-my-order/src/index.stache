@@ -3,8 +3,8 @@
     <title>{{title}}</title>
   </head>
   <body>
-    <can-import from="prjoect-x/styles.less" />
-    <can-import from="prjoect-x/app" export-as="viewModel" />
+    <can-import from="place-my-order/styles.less" />
+    <can-import from="place-my-order/app" export-as="viewModel" />
 
     <h1>{{message}}</h1>
 

@@ -1,11 +1,11 @@
 {
-  "name": "prjoect-x",
+  "name": "place-my-order",
   "version": "0.0.0",
   "description": "An awesome DoneJS app",
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rtjonasin/prjoect-x.git"
+    "url": "git+https://github.com/donejs-user/place-my-order.git"
   },
   "author": {
     "name": "",
@@ -19,7 +19,7 @@
     "develop": "done-serve --develop --port 8080",
     "build": "node build"
   },
-  "main": "prjoect-x/index.stache!done-autorender",
+  "main": "place-my-order/index.stache!done-autorender",
   "files": [
     "src"
   ],
@@ -28,7 +28,7 @@
     "donejs-app"
   ],
   "steal": {
-    "main": "prjoect-x/index.stache!done-autorender",
+    "main": "place-my-order/index.stache!done-autorender",
     "directories": {
       "lib": "src"
     },

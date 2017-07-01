@@ -1,5 +1,5 @@
-@page prjoect-x
+@page place-my-order
 
-# prjoect-x
+# place-my-order
 
-This is the documentation for prjoect-x
+This is the documentation for place-my-order
