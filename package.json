@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Rtjonasin/ProjectX/issues"
   },
-  "homepage": "https://github.com/Rtjonasin/ProjectX#readme"
+  "homepage": "https://github.com/Rtjonasin/ProjectX#readme",
+  "dependencies": {
+    "place-my-order-api": "^0.4.4"
+  }
 }
