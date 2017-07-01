@@ -1,0 +1,24 @@
+{
+  "name": "projectx",
+  "version": "0.0.1",
+  "description": "Project X - My personal code playground",
+  "main": "index.js",
+  "dependencies": {
+    "place-my-order-api": "^0.4.4",
+    "place-my-order-assets": "^0.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rtjonasin/ProjectX.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rtjonasin/ProjectX/issues"
+  },
+  "homepage": "https://github.com/Rtjonasin/ProjectX#readme"
+}
